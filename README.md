@@ -32,9 +32,8 @@
 ### 
 ### *Приведите скриншот интерфейса Kibana на странице http://<ip вашего сервера>:5601/app/dev_tools#/console, где будет выполнен запрос GET /_cluster/health?pretty*.
 ### ![](https://github.com/Berezhok/hw_ELK/blob/main/img/kibanastatus.png)
-### ![](https://github.com/Berezhok/hw_ELK/blob/main/img/kibana.png)
-### 
-### 
+### ![](https://github.com/Berezhok/hw_ELK/blob/main/img/kibana.png) 
+### ![](https://github.com/Berezhok/hw_ELK/blob/main/img/get_response.png)
 ### 
 ### 
 ### 
