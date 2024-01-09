@@ -49,7 +49,10 @@
 ### У меня не появляется индекс никак
 ### ![](https://github.com/Berezhok/hw_ELK/blob/main/img/kibana_index.png) 
 ### Прошу помочь с этим вопросом!
-###  
+### Скрин статуса logstach
+### ![](https://github.com/Berezhok/hw_ELK/blob/main/img/status_logstach.png)
+### Вывод логов в файл /var/log/nginx/access_log, с помощью curl
+### ![](https://github.com/Berezhok/hw_ELK/blob/main/img/varLog.png)
 ## Задание 4. Filebeat. 
 ### 
 ### Установите и запустите Filebeat. Переключите поставку логов Nginx с Logstash на Filebeat. 
