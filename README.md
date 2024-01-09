@@ -42,9 +42,14 @@
 ### Установите и запустите Logstash и Nginx. С помощью Logstash отправьте access-лог Nginx в Elasticsearch. 
 ### 
 ### *Приведите скриншот интерфейса Kibana, на котором видны логи Nginx.*
-### 
-### ---
-### 
+### У меня никак не появляется index-nginx в kibana.
+### Такие настройки
+### ![](https://github.com/Berezhok/hw_ELK/blob/main/img/logstach_conf.png)
+### ![](https://github.com/Berezhok/hw_ELK/blob/main/img/nginx_conf.png) 
+### У меня не появляется индекс никак
+### ![](https://github.com/Berezhok/hw_ELK/blob/main/img/kibana_index.png) 
+### Прошу помочь с этим вопросом!
+###  
 ## Задание 4. Filebeat. 
 ### 
 ### Установите и запустите Filebeat. Переключите поставку логов Nginx с Logstash на Filebeat. 
